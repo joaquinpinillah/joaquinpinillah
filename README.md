@@ -53,7 +53,7 @@ My goal is to build a career in **Data Science, Quantitative Finance, and Machin
 
 ## 📚 Education
 
-🎓 Industrial Engineering  
+🎓 Industrial Engineering from Universidad Adolfo Ibáñez  
 Focused on:
 - Analytics
 - Optimization
