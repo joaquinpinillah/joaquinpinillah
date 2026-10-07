@@ -1,9 +1,8 @@
 # Hi, I'm Joaquín 👋
 
-### Industrial Engineer | Aspiring Data Scientist & Quant Analyst
-
+### Industrial Engineer 
 I am an Industrial Engineering passionate about the intersection of **data, finance, technology, and decision-making**.  
-My goal is to build a career in **Data Science, Quantitative Finance, and Machine Learning**, applying analytical thinking to solve complex real-world problems.
+My goal is to build a career in *AI**, applying analytical thinking to solve complex real-world problems.
 
 ---
 
