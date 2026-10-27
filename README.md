@@ -17,7 +17,6 @@ My goal is to build a career in *AI**, applying analytical thinking to solve com
   - Finance
   - Artificial Intelligence
 - 🌍 Based in Chile CL
-- 🎯 Long-term goal: Become a **Quant Analyst / Data Science Analyst**
 
 ---
 
@@ -31,23 +30,6 @@ My goal is to build a career in *AI**, applying analytical thinking to solve com
 - Pandas
 - NumPy
 - Matplotlib
-
-### Quantitative & Analytical Skills
-- Statistics
-- Optimization
-- Financial Analysis
-- Data Visualization
-- Forecasting
-- Operations Research
-
-### Currently Learning
-- Machine Learning
-- Time Series Analysis
-- Quantitative Trading
-- Deep Learning
-- Financial Engineering
-- Deep Reinforcement Learning
-
 ---
 
 ## 📚 Education
@@ -59,14 +41,6 @@ Focused on:
 - Finance
 - Data-driven decision making
 - AI
-
----
-
-## 📌 Current Projects
-
-- 📈 Financial market data analysis
-- 🤖 Machine learning models for prediction
-
 ---
 
 ## 📫 Connect With Me
