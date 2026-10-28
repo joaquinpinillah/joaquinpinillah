@@ -2,15 +2,15 @@
 
 ### Industrial Engineer 
 I am an Industrial Engineering passionate about the intersection of **data, finance, technology, and decision-making**.  
-My goal is to build a career in *AI*, applying analytical thinking to solve complex real-world problems.
+My goal is to build a career in AI, applying analytical thinking to solve complex real-world problems.
 
 ---
 
 ## 🚀 About Me
 
 - 📊 Strong interest in **Data Science & Predictive Analytics**
-- 📈 Passionate about **Quantitative Finance & Financial Markets**
-- 🤖 Currently learning **Machine Learning, Python, and Statistical Modeling**
+- 📈 Passionate about **Quantitative Finance and Developing Apps**
+- 🤖 Currently learning **LLM, Graphic Desing and Physics**
 - 🧠 Interested in combining:
   - Mathematics
   - Programming
@@ -25,11 +25,9 @@ My goal is to build a career in *AI*, applying analytical thinking to solve comp
 ### Programming & Data
 - Python
 - SQL
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
+- JS
+- CSS
+- HTML
 ---
 
 ## 📚 Education
