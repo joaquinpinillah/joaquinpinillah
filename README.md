@@ -1,21 +1,13 @@
 # Hi, I'm Joaquín 👋
 
 ### Industrial Engineer 
-I am an Industrial Engineering passionate about the intersection of **data, finance, technology, and decision-making**.  
+I am an Industrial Engineering passionate about the intersection of **data, finance and technology.  
 My goal is to build a career in AI, applying analytical thinking to solve complex real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Strong interest in **Data Science & Predictive Analytics**
-- 📈 Passionate about **Quantitative Finance and Developing Apps**
-- 🤖 Currently learning **LLM, Graphic Desing and Physics**
-- 🧠 Interested in combining:
-  - Mathematics
-  - Programming
-  - Finance
-  - Artificial Intelligence
 - 🌍 Based in Chile CL
 
 ---
@@ -32,13 +24,8 @@ My goal is to build a career in AI, applying analytical thinking to solve comple
 
 ## 📚 Education
 
-🎓 Industrial Engineering from Universidad Adolfo Ibáñez  
-Focused on:
-- Analytics
-- Optimization
-- Finance
-- Data-driven decision making
-- AI
+🎓 Industrial Engineering from Universidad Adolfo Ibáñez 
+
 ---
 
 ## 📫 Connect With Me
