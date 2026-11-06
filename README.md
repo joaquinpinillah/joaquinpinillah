@@ -1,7 +1,7 @@
 # Hi, I'm Joaquín 👋
 
 ### Industrial Engineer 
-I am an Industrial Engineering passionate about the intersection of **data, finance and technology.  
+I am an Industrial Engineering passionate about the intersection of data, finance and technology.  
 My goal is to build a career in AI, applying analytical thinking to solve complex real-world problems.
 
 ---
